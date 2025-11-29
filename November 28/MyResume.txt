@@ -1,0 +1,71 @@
+ISHAAN MALRA
+Competent, Flexible, Organized
+Phone: +916395933155
+Email: ishaanmalra@gmail.com
+LinkedIn: https:/www.linkedin.com/in/ishaan-malra-6b12971ba//
+GitHub: https://github.com/ishaan-eng
+CAREER OBJECTIVE
+A responsible and purposeful individual, seeking an opportunity for exposure to the industrial world, to leverage my
+technical and organizing skills productively.
+ACADEMIC BACKGROUND
+Year Qualification/ Degree Board/University Percentage/CGPA
+2020-2024
+B.Tech in Computer Science
+Engineering- Specialization in Cloud
+Computing and Virtualization
+Technologies
+UPES- Dehradun, Uttarakhand 8.09
+2018-2019 Class XII ISC 83%
+2016-2017 Class X ICSE 92.3%
+Subject Electives Cloud Computing and Virtualization Technologies, DevOps, Digital Marketing
+Technical Proficiency/Skills  Java, Python, C
+ C#, HTML, CSS, JavaScript
+ SQL, Docker, Cloud, OpenStack, Agile Methodologies, Microservices,
+Virtualization
+ .NET Core, ASP.NET, React, Flutter
+ Full-Stack Development, Web Application Development, Web API, MVC
+Summer Internship/Work Experience
+NINTERNET
+● Actively engaging in front-end development, contributing to the implementation of user-friendly and responsive web designs
+● Assisting the product development team with wireframing and designing the user
+interface for the web app.
+● Testing the mobile app and web app to identify problems and bugs, ensuring a seamless
+user experience.
+IBM
+Project Topic: Design and implement a Cloud Based System For High-Performance Computing and Scientific
+Simulations
+My role in this project as a team project associate was to brainstorm ideas and work with my team mates, and my key
+responsibility was to integrate AWS S3 storage with AWS RDS services and configure them, and to make a comparative
+analysis report with my team mates, along with framing of all the documents.
+Projects(Major/Minor)
+Minor Project II- MSTrIPES
+ MSTrIPES is an existing software, which stands for Monitoring System for Tigers: Intensive Protection & Ecological
+Status.
+ In this group project, we built an integrated application to provide the features of MSTrIPES, such as generation of
+tracks using Intelligent Patrolling System(IPS) Algorithm with the help of shape files and QGIS.
+Mini Project: Diffie-Hellman Implementation
+• Diffie-Hellman Algorithm is a key exchange protocol that enables two parties communicating in an
+insecure channel to establish a mutual secret without being transmitted over the internet. The same has
+been implemented in a simplified way.
+• A public key, which is used to encrypt and decrypt the information using symmetric cryptography, is
+generated, and is checked if it’s the same received by the receiver as the private key.
+Minor Project I
+A project in JAVA, with the aim to generate a maze and find the shortest escape path, using best suited data structures and
+optimal algorithms, using object oriented language approach.
+Accomplishment and Recognition
+ Actively participated in ‘Code-e-Jung’, a national level coding competition held by Celebal Technologies
+and was among the first rank holders.
+ Actively participated in a national level ‘IBM ICE CodeWars’ Hackathon.
+IBM CodeWars Project: Load Balancing for Data Centers- A Load Balancing Algorithm for the Data Centers
+to Optimize Cloud Computing Applications
+ Achieved and completed micro certifications in PricewaterhouseCoopers(PwC) learning and training
+program.
+IT Fundamentals: https://lnkd.in/dnGzVrvF
+RDBMS: https://lnkd.in/dbmHz7uC
+Programming Fundamentals- Python: https://lnkd.in/d9iYF8TP
+Data Engineering- Introduction: https://lnkd.in/dj_UNqSf
+ Completed a specialization in Full Stack Development from Coursera and achieved certifications for the
+following three courses:
+.NET Full Stack Foundation
+Frontend Development using React
+Backend Development for .NET Full Stack
