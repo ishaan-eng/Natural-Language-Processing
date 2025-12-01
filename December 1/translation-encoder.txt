@@ -1,0 +1,11 @@
+    ("Go.", "Va !"),
+    ("Run!", "Cours !"),
+    ("Run.", "Cours !"),
+    ("Who?", "Qui ?"),
+    ("Wow!", "Ça alors !"),
+    ("Fire!", "Au feu !"),
+    ("Help!", "À l'aide !"),
+    ("Stop!", "Arrête-toi !"),
+    ("Wait!", "Attends !"),
+    ("Hello!", "Bonjour !"),
+    ("I see.", "Je comprends.")
