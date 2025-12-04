@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Result Generator</title>
+</head>
+<body>
+    <form action="http://localhost:5000/result" method="post">
+        <p>Enter your name: </p>
+        <p>
+            <label>
+                <input type="text" name="Name"/>
+            </label>
+        </p>
+        <p>Physics marks: </p>
+        <p>
+            <label>
+                <input type="number" name="PHY"/>
+            </label>
+        </p>
+        <p>Chemistry marks: </p>
+        <p>
+            <label>
+                <input type="number" name="CHEM"/>
+            </label>
+        </p>
+        <p>Biology marks: </p>
+        <p>
+            <label>
+                <input type="number" name="BIO"/>
+            </label>
+        </p>
+        <p><input type="submit" value="Calculate Percentage" name="OK"/></p>
+    </form>
+</body>
+</html>

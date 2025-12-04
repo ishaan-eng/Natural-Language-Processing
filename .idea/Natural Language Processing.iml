@@ -7,4 +7,11 @@
     <orderEntry type="jdk" jdkName="Python 3.13 (Natural Language Processing)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
+  <component name="TemplatesService">
+    <option name="TEMPLATE_FOLDERS">
+      <list>
+        <option value="$MODULE_DIR$/December 4/templates" />
+      </list>
+    </option>
+  </component>
 </module>
